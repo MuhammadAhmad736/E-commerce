@@ -68,6 +68,10 @@ const Navbar = () => {
               </button>
             </Link>
 
+           
+
+
+
             {!user ? (
               <button
                 className="px-8 py-2 bg-indigo-500 hover:bg-indigo-600 transition text-white rounded-full"
